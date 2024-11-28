@@ -1,0 +1,14 @@
+img {
+    width: 150px;
+}
+.menu {
+    background-color: burlywood;
+}
+
+.menu-item {
+    background-color: bisque;
+}
+
+.menu-item img {
+    width: 200px;
+}
